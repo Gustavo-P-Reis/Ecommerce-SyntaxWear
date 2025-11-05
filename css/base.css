@@ -8,6 +8,7 @@ main{
   padding: 2.5rem 0 0;
   max-width: 1360px;
   margin: 0 auto;
+  margin-bottom: 2.5rem;
 }
 
 .btn {
