@@ -5,6 +5,7 @@
   position: relative;
   display: flex;
   background-size: cover; /* Garante que a imagem cubra toda a área */
+  border-radius: 20px;
 }
 
 .hero-overlay {
@@ -14,6 +15,7 @@
   align-items: center;
   justify-content: flex-end;
   padding: 0 6rem;
+  
 }
 
 .hero-content {
