@@ -5,6 +5,7 @@
     left: 50%;
     transform: translate(-50%);
     width: calc(100% - 210px);
+    max-width: 1280px;
     border-radius: 15px;
     z-index: 999;
     display: flex;
