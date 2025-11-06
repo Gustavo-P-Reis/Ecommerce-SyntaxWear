@@ -43,4 +43,34 @@
   line-height: 36px;
 }
 
+@media (max-width:768px) {
+  .hero-section{
+    height: 660px;
+    background-image: url(../../images/banners/hero-mobile.jpg);
+  }
+
+  .hero-overlay{
+    padding: 0;
+  }
+
+  .hero-content .hero-title {
+    font-size: 1.5rem;
+  }
+  
+  .hero-content .hero-subtitle {
+    max-width: 330px;
+    margin: 0 auto;
+  } 
+
+  .hero-content {
+    max-width: 330px;
+    margin: 0 auto;
+  }
+  
+  .btn{
+    font-size: 1.2rem;
+    margin-top: 40px;
+  }
+
+}
 
